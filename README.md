@@ -30,5 +30,7 @@ The main components of the setup is arduino uno.It is a microcontroller that is 
 # Github Link:
 https://github.com/jatinn98/Patient-Monitoring-System/edit/master/README.md
 
+# YouTube Link:
 
+https://youtu.be/Gb9FXvIEGkE
 
